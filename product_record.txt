@@ -1,0 +1,10 @@
+Drinks
+    Coca Cola
+    Orange juice
+    Milk
+
+Food
+    Chicken wings
+    Salad
+    Sushi
+
