@@ -29,3 +29,5 @@ system.
 
 <h3>5. What did you most enjoy implementing?
 <h4>During the project time, I enjoyed the problem solving task most. Making challenges offers me a way to gain satisfaction. By solving different tasks, I gain a lot of confidence and skills. Now I am more familiar with Python and SQL, and more capable of pursuing better programming skills.
+
+<h3>You can see what I've learnt during the Data Engineering Bootcamp <a href="https://uk.generation.org/manchester/data-engineering/">@Generation</a>
