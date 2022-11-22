@@ -1,4 +1,4 @@
-# Jenny's Mini Project of Data Engineering Skill Boot Camp 2002 @ Generation
+# Jenny's Mini Project of Data Engineering Skill Boot Camp 2022 @ Generation
 
 <img src="https://github.com/klcheung1100/mini_project_generation/blob/master/mini_project_pic.png">
 
