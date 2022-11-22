@@ -2,6 +2,8 @@
 
 <img src="https://github.com/klcheung1100/mini_project_generation/blob/master/mini_project_pic.png">
 
+<h3>My code is at <a href="https://github.com/klcheung1100/mini_project_generation/blob/master/mini_project_week6.py">mini_project_week6.py</a>
+
 <h3> 1. Project Bakcground
 <h4> <br>This is my individual mini project @ <a href="https://uk.generation.org/">Generation</a>
 <br> During the lessons, I've leant Database fundamental, Programming languages including Python and SQL as well as Agile and scrum methodology by doing a lot of hands-on projects and exercises.
