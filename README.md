@@ -24,7 +24,7 @@ system.
 <h4><br> A) I've designed the database through MySQL. By creating serveral tables, I stored the products / orders / couriers' data into specific tables. The client needs to log in to the MySQL local host to access the database, which can ensure the protect of data.
 <br>B) I've imported PyMySQL to access the database. By extracting data from the database, client can do different operations to the data, for example, to view / create / update / delete the data from products / orders / couriers tables. By using hashlib library, I built a login system. If the user is fail to login, the user will not be able to proceed. I also imported the pretty table library to enhance the readability.
 <br> C) Once there is any updates from the client, the database can automatically update the data.
-<br> D) To optimise user experience, I add a "Search" engine in the system. Client can search the orders by Courier ID/ Product ID / Order ID.
+<br> D) To optimise user experience, I add a "Search" engine in the system. Client can search the orders by Courier ID/ Product ID / Order ID / Status ID.
 
 <h3>4. If you had more time, what is one thing you would improve upon?
 <h4>If I had more time, I would create a GUI (Graphic User Interface) to optimise user experience. It will be easier for non-technical person to use the system. Also, I will make a test_mini_project.py to test the code.
