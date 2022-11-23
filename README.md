@@ -27,7 +27,7 @@ system.
 <br> D) To optimise user experience, I add a "Search" engine in the system. Client can search the orders by Courier ID/ Product ID / Order ID.
 
 <h3>4. If you had more time, what is one thing you would improve upon?
-<h4>If I had more time, I would create a GUI (Graphic User Interface) to optimise user experience. It will be easier for non-technical person to use the system.
+<h4>If I had more time, I would create a GUI (Graphic User Interface) to optimise user experience. It will be easier for non-technical person to use the system. Also, I will make a test_mini_project.py to test the code.
 
 <h3>5. What did you most enjoy implementing?
 <h4>During the project time, I enjoyed the problem solving task most. Making challenges offers me a way to gain satisfaction. By solving different tasks, I gain a lot of confidence and skills. Now I am more familiar with Python and SQL, and more capable of pursuing better programming skills.
